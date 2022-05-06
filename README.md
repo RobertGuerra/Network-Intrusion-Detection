@@ -1,6 +1,13 @@
 # Network-Intrusion-Detection-System
 School project
 
+My roles included doing research on AWS services, Security Information and Event Management (SIEM) and
+Network Intrusion Detection System (Snort).
+  Also,
+  - Snort: I assisted in configuring Snort rules for detecting events such as: icmp, ssh/ssh brute force, and nmap scans
+  - nmap: nmap scan during demo
+  - understanding: Helped group members understand linux commands and AWS setup
+
 Project description: 
 The goal of this project was to create software application that was launched on AWS and
 forward network packets to monitor for malicious activity or policy violations. We utilized a SIEM 
@@ -32,3 +39,5 @@ Tools used:
 - Snort (NIDS) along with the Data Aquisition Libraries used by Snort (DAQ)
 - Security and Event Management System (Splunk/Splunk Forwarder/Dashboard)
 - Python (scripting to simulate an attack using hping)
+
+You can find a PDF of the project presentation and survey report in the repo (group members full names redacted for privcy)
