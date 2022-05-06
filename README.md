@@ -40,4 +40,4 @@ Tools used:
 - Security and Event Management System (Splunk/Splunk Forwarder/Dashboard)
 - Python (scripting to simulate an attack using hping)
 
-You can find a PDF of the project presentation and survey report in the repo (group members full names redacted for privcy)
+You can find a PDF of the project presentation and NIDS report in the repo (group members full names redacted for privcy)
