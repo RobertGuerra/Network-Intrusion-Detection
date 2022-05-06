@@ -41,3 +41,6 @@ Tools used:
 - Python (scripting to simulate an attack using hping)
 
 You can find a PDF of the project presentation and NIDS report in the repo (group members full names redacted for privcy)
+
+* There is also a PDF version of AWS Educate profile which shows digital certificates for completion of
+  the Cloud Computing 101 and Cybesecurity Specialist modules. This was included to show foundational knowledge of AWS.
